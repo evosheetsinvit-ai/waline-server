@@ -1,4 +1,4 @@
-import Server from '@waline/vercel'
+import Server from '@waline/vercel';
 export default Server({
 
 });
